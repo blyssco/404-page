@@ -1,0 +1,61 @@
+.block{
+    background: rgb(75,104,255);
+    background: radial-gradient(circle, rgba(75,104,255,1) 0%, rgba(128,70,252,1) 100%);
+
+}
+.div1{
+    background-color: beige;
+    margin-top: 7%;
+    margin-left: 8%;
+    margin-right: 8%;
+    padding: auto;
+    text-align: center;
+    border: 20px solid black;
+    border-radius: 30px;
+}
+
+.oops{
+    margin-bottom: 2%;
+    font-size: 900%;
+	font-weight: 700;
+	background-clip: text;
+	-webkit-background-clip: text;
+	color: transparent;
+	background-image: url('https://images.newscientist.com/wp-content/uploads/2019/07/02111520/gettyimages-157639696.jpg?crop=1:1,smart&width=1200&height=1200&upscale=true');
+}
+
+.txt{
+    margin: 0;
+    padding-top: 0;
+    font-size: 190%;
+    font-weight: 700;
+}
+
+.button {
+    background-color: blueviolet;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 1%;
+    margin-bottom: 9%;
+    font-weight: 800;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .button {
+    transition-duration: 0.4s;
+  }
+  
+  .button:hover {
+    background-color: blue;
+    color: white;
+  }
+ 
+
+  
